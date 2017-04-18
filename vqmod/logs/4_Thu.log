@@ -1,0 +1,28 @@
+---------- Date: 2015-10-08 19:58:23 ~ IP : ::1 ----------
+REQUEST URI : /webstore/index.php?route=product/product&product_id=51
+MOD DETAILS:
+   modFile   : C:\xampp\htdocs\webstore\vqmod/xml/cosyone_product_questions.xml
+   id        : Product Questions
+   version   : OC 2.x
+   vqmver    : 2.0.0
+   author    : Karl Pers - openthemer@gmail.com
+
+File Name    : catalog/view/theme/*/template/product/product.tpl(2)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): <i class="fa fa-arrow-right"></i><i class="fa fa-arrow-left main_compare">
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-10-08 19:58:40 ~ IP : ::1 ----------
+REQUEST URI : /webstore/index.php?route=product/product&product_id=51
+MOD DETAILS:
+   modFile   : C:\xampp\htdocs\webstore\vqmod/xml/cosyone_product_questions.xml
+   id        : Product Questions
+   version   : OC 2.x
+   vqmver    : 2.0.0
+   author    : Karl Pers - openthemer@gmail.com
+
+File Name    : catalog/view/theme/*/template/product/product.tpl(2)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): <i class="fa fa-arrow-right"></i><i class="fa fa-arrow-left main_compare">
+----------------------------------------------------------------------
+
+
