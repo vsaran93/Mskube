@@ -20,9 +20,9 @@ define('DIR_LOGS', 'C:/xampp/htdocs/webstore/system/logs/');
 
 // DB
 define('DB_DRIVER', 'mysqli');
-define('DB_HOSTNAME', 'localhost');
-define('DB_USERNAME', 'root');
-define('DB_PASSWORD', 'admin');
-define('DB_DATABASE', 'mskube');
+define('DB_HOSTNAME', 'remotemysql.com');
+define('DB_USERNAME', '9c36SZ9KYw');
+define('DB_PASSWORD', 'q48Jwhg4RR');
+define('DB_DATABASE', '9c36SZ9KYw');
 define('DB_PORT', '3306');
 define('DB_PREFIX', 'oc_');
